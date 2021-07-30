@@ -1,0 +1,4 @@
+Used the 'glove.6B.300d' embedding file to generate embeddings of words of the blog texts of every Author and used Sequential Model to predict the Age class of the Author. 
+Performed Statistical Analysis on the meta information of each blog post namely, topics, zodiac signs of the authors, gender and age groups. 
+
+Built a rule based Chatbot using Sequential Model from a json file of User Patterns, Intents and the relevant responses. 
